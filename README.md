@@ -1,0 +1,2 @@
+# song_recommender
+ The "Song Recommender" project is a personalized music recommendation system that suggests songs based on user preferences, listening history, and genre similarity. By leveraging machine learning and collaborative filtering techniques, it identifies patterns in user behavior to deliver tailored playlists. This project aims to enhance the music discovery experience, providing users with fresh and relevant song choices.
